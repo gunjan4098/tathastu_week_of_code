@@ -13,3 +13,6 @@ c=s3*2
 print("Runs scored if Player 1 had played 60 more balls = ",a)
 print("Runs scored if Player 2 had played 60 more balls = ",b)
 print("Runs scored if Player 3 had played 60 more balls = ",c)
+print("maximum 6 scored by player 1=",p1 // 6)
+print("maximum 6 scored by player 2=",p2 // 6)
+print("maximum 6 scored by player 3=",p3 // 6)
